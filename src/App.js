@@ -16,13 +16,6 @@ import { Moviedetails } from './Moviedetails';
 import { Basicform } from './Basicform';
 
 
-
-
-
-
-
-
-
 function App() {
   // const names = ["valli", "anand", "thanvika"];
   const initialmovielist = [
